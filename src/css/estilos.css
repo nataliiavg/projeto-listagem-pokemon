@@ -60,10 +60,10 @@ main .cartao-pokemon{
 }
 
 main .cartao-pokemon:hover{
-    background-color: #96e9e6;
+    background-color: #96d9d6;
 }
 
-.modo-escuro .cartao-pokemon:hover{
+.modo-escuro .cartao-pokemon{
     background-color: #a8a8a8;
 }
 
